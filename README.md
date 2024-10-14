@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am a student and I use Github for my school and hobbies.
 <!--
 **Losik280/Losik280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
